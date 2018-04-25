@@ -1,0 +1,16 @@
+{
+  "name": "cordsbot",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "winston": "^3.0.0-rc3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "68m",
+  "license": "ISC"
+}
